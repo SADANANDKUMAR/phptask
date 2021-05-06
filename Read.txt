@@ -1,0 +1,13 @@
+first extract the zip file php task
+now you will get three file form.html, index.html,insert.php
+first set up your mysql database with name "test"
+type the query :-
+CREATE DATABASE `test`;
+now create the table :-
+id,username,password,gender,date,email,phoneCode,phone
+after this run the index.html file 
+then follow entire procedure
+
+thank you
+
+mailme:-sadanandkr9686@gmail.com
